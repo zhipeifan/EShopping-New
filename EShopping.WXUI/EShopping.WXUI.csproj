@@ -221,6 +221,7 @@
     <Content Include="Images\prodtap02.png" />
     <Content Include="Images\prodtime-icon.png" />
     <Content Include="Images\pyou.jpg" />
+    <Content Include="Images\qiandao_icon.png" />
     <Content Include="Images\qq.jpg" />
     <Content Include="Images\qqz.jpg" />
     <Content Include="Images\qq_icon.jpg" />
@@ -486,6 +487,7 @@
     <Content Include="Views\UserCenter\ShoppingHistoryListPartial.cshtml" />
     <Content Include="Views\UserCenter\MyShareOrderListPartial.cshtml" />
     <Content Include="Views\ShareOrder\PartialShareList.cshtml" />
+    <Content Include="Views\NewPublic\ListItem.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -32,6 +32,19 @@ namespace EShopping.WXUI.Controllers
             return View(data);
         }
 
+        /// <summary>
+        /// 最新揭晓Item
+        /// </summary>
+        /// <param name="PageIndex"></param>
+        /// <param name="PageSize"></param>
+        /// <returns></returns>
+        public ActionResult ListItem(int PageIndex = 1, int PageSize = 10)
+        {
+            PageIndex++;
+            var list = ProductService.LoadNewPublic(PageIndex, PageSize);
+            return PartialView(list);
+        }
+
         public JsonResult NewPubHistory(int PageIndex=1, int PageSize = 10)
         {
             var list = ProductService.LoadNewPublic(1, 10);

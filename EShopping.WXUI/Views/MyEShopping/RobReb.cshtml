@@ -6,10 +6,10 @@
             <section id="page-content" class="shopcar-content">
                 <div class="rank">
                     <ul class="rob">
-                        <li class="curr"><a href="javascript:;" title="">邀请好友得红包</a></li>
-                        <li><a href="@Url.Action("MyRed", "MyEShopping")" title="">晒单得红包</a></li>
-                        <li><a href="javascript:;" title="">连续签到得红包</a></li>
-                        <li><a href="javascript:;" title="">积分升级得红包</a></li>
+                        @*<li class="curr"><a href="javascript:;" title="">邀请好友得红包</a></li>*@
+                        <li><a href="@Url.Action("ShareList", "ShareOrder")" title="">晒单得红包</a></li>
+                        <li><a href="@Url.Action("Registering", "MyEShopping")" title="">连续签到得红包</a></li>
+                        <li><a href="@Url.Action("PayFor", "ShoppingCar")" title="">积分升级得红包</a></li>
                     </ul>
                 </div>
             </section>

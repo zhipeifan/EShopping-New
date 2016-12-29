@@ -16,6 +16,8 @@
 <section id="page-content" class="shopcar-content">
     <ul class="products" style="border:0px">
 
+ 
+
         @if (Model != null)
         {
             if (Model.Products != null && Model.Products.Count > 0)
@@ -40,4 +42,60 @@
 
 
     </ul>
+
+    <div class="pullUp" style="display: block; line-height: 40px;">
+        <div class="loader" style="display: none;">
+            <span></span><span></span><span></span><span></span>
+        </div><div class="pullUpLabel">
+            <img src="~/Images/up.png" height="12px" />... 加载更多数据... <img src="~/Images/up.png" height="12px" />
+        </div>
+    </div>
+
+    @Html.HiddenFor(c => pageIndex)
+    @Html.HiddenFor(c => pageSize)
+
 </section>
+
+
+
+
+<script type="text/javascript">
+    $(function () {
+        $(window).scroll(function () {
+            var scrollTop = $(this).scrollTop();
+            var scrollHeight = $('#page-content').outerHeight();
+            var wHeight = $(this).height() - $('#footer').height() - 1;
+            if (wHeight + scrollTop >= scrollHeight) {
+
+                var pageIndex = $("#pageIndex").val();
+                var pageSize = $("#pageSize").val();
+
+                var data = {
+                    PageIndex: pageIndex,
+                    PageSize: pageSize
+                };
+
+                $(".loader").show();
+
+                $.ajax({
+                    type: "post",
+                    url: "@Url.Action("ListItem", "NewPublic")",
+                    data: data,
+                    dataType: "html",
+                    success: function (response) {
+                        $('.products').append(response);
+                        $('img.lazy').lazyload({ threshold: 200 });
+                        $("#pageIndex").val(parseInt(pageIndex) + 1);
+                        $(".loader").hide();
+                        if ($.trim(response) == "") {
+                            $(".pullUpLabel").html("亲，以上就是全部开奖信息哟。");
+                        }
+                    }
+                });
+            };
+        });
+
+    });
+
+
+</script>

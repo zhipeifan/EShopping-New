@@ -180,18 +180,18 @@
             };
         });
 
-        $.each($('#prodPageList').find('.pitem .pitem-list'), function (i, ele) {
-            $(ele).on('click', function () {
-                if ($(ele).next('.lr-pad').hasClass('show')) {
-                    $(ele).find('h4').addClass('curr')
-                    $(ele).next('.lr-pad').removeClass('show').addClass('hide');
-                } else {
-                    $(ele).find('h4').removeClass('curr')
-                    $(ele).next('.lr-pad').removeClass('hide').addClass('show');
-                }
+        //$.each($('#prodPageList').find('.pitem .pitem-list'), function (i, ele) {
+        //    $(ele).on('click', function () {
+        //        if ($(ele).next('.lr-pad').hasClass('show')) {
+        //            $(ele).find('h4').addClass('curr')
+        //            $(ele).next('.lr-pad').removeClass('show').addClass('hide');
+        //        } else {
+        //            $(ele).find('h4').removeClass('curr')
+        //            $(ele).next('.lr-pad').removeClass('hide').addClass('show');
+        //        }
 
-            })
-        })
+        //    })
+        //})
 
     });
 

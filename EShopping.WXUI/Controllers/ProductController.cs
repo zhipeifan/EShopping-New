@@ -64,8 +64,14 @@ namespace EShopping.WXUI.Controllers
             var response = ProductService.LoadProductDetail(id, spellBuyProductId);
             var list = LoadAttendUsers(spellBuyProductId, 1, 10);
             ViewBag.AttendUsers = list;
-            var winnerList=ProductService.QueryPublishingHistoryList(id,1);
+            var winnerList=ProductService.QueryPublishingHistoryList(id,0);
             ViewBag.QueryPublishingHistoryList = winnerList;
+
+
+            //查询商品晒单
+            var shareDto = ShareService.ShareList(1,1,0,1,true,id);
+            ViewBag.ShareDTO = shareDto;
+
             return View(response);
         }
 

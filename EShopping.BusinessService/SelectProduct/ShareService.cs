@@ -54,7 +54,7 @@ namespace EShopping.BusinessService.SelectProduct
         /// <param name="pageIndex"></param>
         /// <param name="PageSize"></param>
         /// <returns></returns>
-        public static List<QueryShareInfoListDTO> ShareList(int pageIndex, int PageSize, int userId, int byDetailOrMy=1)
+        public static List<QueryShareInfoListDTO> ShareList(int pageIndex, int PageSize, int userId, int byDetailOrMy = 1, bool isShowAll=true,int productId=0)
         {
             var payload = new QueryShareInfoListRequest
             {
@@ -62,7 +62,8 @@ namespace EShopping.BusinessService.SelectProduct
                 pageSize = PageSize,
                 byDetailOrMy = byDetailOrMy,
                 userId = userId,
-                 isShowAll=true
+                isShowAll = isShowAll,
+                productId = productId
             };
 
             if(payload.byDetailOrMy==2)
@@ -123,5 +124,7 @@ namespace EShopping.BusinessService.SelectProduct
             }
             return new List<string>();
         }
+
+
     }
 }

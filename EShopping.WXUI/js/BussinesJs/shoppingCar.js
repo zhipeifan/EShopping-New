@@ -195,15 +195,16 @@ function ChangebuyNum(obj)
 function onlyNum(obj) {
 
     var stockNum = $(obj).parents('ul.carlist-inners').find('em.stockNum').html();
+    
 
     if (isNaN(parseInt(obj.value)))
     {
-        obj.value = 0;
+        obj.value = 1;
         return;
     }
-    if (parseInt(obj.value) < 0)
+    if (parseInt(obj.value) <=0)
     {
-        obj.value = 0;
+        obj.value = 1;
         return;
     }
     if (obj.value >= parseInt(stockNum))
@@ -211,8 +212,12 @@ function onlyNum(obj) {
         obj.value = stockNum;
         return;
     }
-     
-    if (obj.value.length > 4) obj.value = obj.value.slice(0, 4)
+    
+    obj.value = parseInt(obj.value);
+
+    if (obj.value.length > 4) obj.value = obj.value.slice(0, 4);
+
+    productSumPrice();
 }
 
 

@@ -55,6 +55,8 @@ namespace EShopping.Entity.Response.DTO
         public long systemTime { get; set; }
         public int currentUserBuyCount { get; set; }
 
+        public int newSpellbuyproductId { get; set; }
+
         public List<string> ProductImages
         {
             get

@@ -78,13 +78,13 @@ $(function () {
             var iPrice = $(this).parents('ul.carlist-inners').attr('data-price');
             var iRest = parseInt($(this).parents('ul.carlist-inners').attr('data-rest'));
             iVal--
-            if (iVal <= 0) {
+            if (iVal <= 1) {
                 return;
             };
             $(this).next('input').val(iVal);
             var iSum = parseFloat(iPrice * iVal);
             $(this).parents('ul.carlist-inners').find('em.stockNum').html(iRest - iVal);
-            //$('#set-price').html('总计：<em>' + iSum + '</em>易购币')
+            //$('#set-price').html('总计：<em>' + iSum + '</em>卡乐币')
             productSumPrice();
 
             var id = $(this).parents('ul.carlist-inners').attr('data-id');
@@ -105,7 +105,7 @@ $(function () {
             };
             $(this).prev('input').val(iVal);
             var iSum = parseFloat(iPrice * iVal);
-            //$('#set-price').html('总计：<em>' + iSum + '</em>易购币');
+            //$('#set-price').html('总计：<em>' + iSum + '</em>卡乐币');
             productSumPrice();
            // $(this).parents('ul.carlist-inners').find('em.stockNum').html(iRest - iVal);
 
@@ -136,7 +136,7 @@ $(function () {
                 $(ele).addClass('curr');
             }
 
-            //$('#set-price').html('总计：<em>' + iSum + '</em>易购币');
+            //$('#set-price').html('总计：<em>' + iSum + '</em>卡乐币');
             productSumPrice();
           //  $(this).parents('ul.carlist-inners').find('em.stockNum').html(iRests - liNum.val());
 
@@ -168,7 +168,7 @@ $(function () {
 
                 $(this).removeClass("baowei").attr("style", "");
                 operateType = -2;
-                $(this).parents('ul.carlist-inners').find('input.buyNum').val(0);
+                $(this).parents('ul.carlist-inners').find('input.buyNum').val(1);
                 //$(this).parents('ul.carlist-inners').find('em.stockNum').html(iRests);
             }
 
@@ -228,5 +228,5 @@ function productSumPrice() {
         totalPrice += parseFloat(price * inum);
     });
 
-    $('#set-price').html('总计：<em>' + totalPrice + '</em>易购币');
+    $('#set-price').html('总计：<em>' + totalPrice + '</em>卡乐币');
 }

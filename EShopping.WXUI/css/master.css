@@ -951,7 +951,7 @@ ul.ser_deg li.num span.pans input,
 	height:3.5rem;
 	position:fixed;
 	left:0px;
-	bottom:4.5rem;
+	bottom:4.0rem;
 	background:#fefefe;
 }
 
@@ -1115,7 +1115,7 @@ ul.ser_deg li.num span.pans input,
 }
 
 .publitime ul{
-	height:4rem;
+	height:2rem;
 	overflow:hidden;
 }
 
@@ -1495,7 +1495,7 @@ ul.ser_deg li.num span.pans input,
  */
 
 .share{
-	padding-top:51px;
+	padding-top:5px;
 }
 
 .share_list{
@@ -1605,7 +1605,8 @@ input.smSub{
 
 .share_sub{
 	border-top:1px solid #ddd;
-	overflow:hidden;
+	overflow:hidden;    
+    border-bottom: 1px solid #ddd;
 }
 
 .share_sub li{

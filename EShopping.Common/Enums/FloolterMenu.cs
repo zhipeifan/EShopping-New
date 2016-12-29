@@ -25,7 +25,7 @@ namespace EShopping.Common.Enums
         /// </summary>
         ShoppingCar=4,
         /// <summary>
-        /// 我的易购
+        /// 我的卡乐
         /// </summary>
         MyShopping=5
     }
