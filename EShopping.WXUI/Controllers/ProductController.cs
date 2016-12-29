@@ -15,7 +15,7 @@ namespace EShopping.WXUI.Controllers
     {
         //public ProductController()
         //{
-        //    ChangeFlooterEnum(FloolterMenu.AllProduct);
+        //    ChangeFlooterEnum(FloolterMenu.AllProduct);/////
         //}
         
         /// <summary>
