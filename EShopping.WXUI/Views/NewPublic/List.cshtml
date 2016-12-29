@@ -1,0 +1,43 @@
+﻿@using EShopping.Entity.Response.DTO
+@using EShopping.Common;
+@using EShopping.Common.Enums;
+@using EShopping.Entity.UIDTO;
+
+@model NewPublicListDTO
+@{
+
+    int pageIndex = (ViewBag.PageIndex == null ? 1 : (int)ViewBag.PageIndex);
+    int pageSize = (ViewBag.PageSize == null ? 1 : (int)ViewBag.PageSize);
+}
+
+<header id="header" class="shopcar-top">
+    <h2>最新揭晓</h2>
+</header>
+<section id="page-content" class="shopcar-content">
+    <ul class="products" style="border:0px">
+
+        @if (Model != null)
+        {
+            if (Model.Products != null && Model.Products.Count > 0)
+            {
+                foreach (var item in Model.Products)
+                {
+                   <li>
+                       <a href="@Url.Action("Detail", "Product", new { id = @item.Id, spellBuyProductId =@item.spellbuyproductId})" title="">
+                           <img class="lazy" src="/images/defaultloading.gif" data-original="@item.coverImg1" />
+                           <span class="prodtitle">@item.productName</span>
+                           <span class="newprodinfo">期号：<em>@item.licensingCode</em></span>
+                           <span class="newprodinfo">获奖者：<em class="blue">@item.winnerUserName</em></span>
+                           <span class="newprodinfo">参与人次：<em>@item.winnerUserBuyCount</em></span>
+                           <span class="newprodinfo">幸运号：<em class="red">@item.winnerBuyCode</em></span>
+                           <span class="newprodinfo">揭晓时间：<em>@item.winnerTime.ConvertToPublicDate()</em></span>
+                       </a>
+                    </li>
+                }
+            }
+
+        }
+
+
+    </ul>
+</section>

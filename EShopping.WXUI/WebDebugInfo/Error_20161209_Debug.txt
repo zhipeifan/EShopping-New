@@ -1,0 +1,203 @@
+2016/12/9 10:26:43 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:26:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:26:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:41 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:41 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:41 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 10:27:43 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:25:35 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:25:35 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:25:35 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:50:20 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:50:21 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 11:50:21 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:06:06 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":49,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/eBVWS0yqibD9QtnxSPktlgXFbGruoWWgyBlYgic6OMd2BTYib7YZdYicgwbMgr5HiaqaQQlEDRuTO3GlqWCjIJkuLVZdvxqKxibKP9/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":7.0,"CurrentWalletOfAll":0.0,"Integral":17,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:22 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:22 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:22 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:40 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:40 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:15:40 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:22:14 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:22:14 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 12:22:14 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 15:17:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 15:17:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/9 15:17:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+

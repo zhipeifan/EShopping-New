@@ -1,0 +1,46 @@
+2016/12/7 0:52:37 --Error Start----------------
+Title : system error
+The parameters dictionary contains a null entry for parameter 'BuyNum' of non-nullable type 'System.Int32' for method 'Void SetProuctItemNum(Int32, Int32, Int32, Int32)' in 'EShopping.WXUI.Controllers.ShoppingCarController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+参数名: parameters
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/7 0:53:23 --Error Start----------------
+Title : system error
+The parameters dictionary contains a null entry for parameter 'BuyNum' of non-nullable type 'System.Int32' for method 'Void SetProuctItemNum(Int32, Int32, Int32, Int32)' in 'EShopping.WXUI.Controllers.ShoppingCarController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+参数名: parameters
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/7 0:53:59 --Error Start----------------
+Title : system error
+The parameters dictionary contains a null entry for parameter 'BuyNum' of non-nullable type 'System.Int32' for method 'Void SetProuctItemNum(Int32, Int32, Int32, Int32)' in 'EShopping.WXUI.Controllers.ShoppingCarController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+参数名: parameters
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/7 0:54:54 --Error Start----------------
+Title : system error
+The parameters dictionary contains a null entry for parameter 'BuyNum' of non-nullable type 'System.Int32' for method 'Void SetProuctItemNum(Int32, Int32, Int32, Int32)' in 'EShopping.WXUI.Controllers.ShoppingCarController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+参数名: parameters
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/7 1:39:55 --Error Start----------------
+Title : system error
+未将对象引用设置到对象的实例。
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/7 1:40:23 --Error Start----------------
+Title : system error
+未将对象引用设置到对象的实例。
+Exception : 
+
+Error-----------------Error   End-----------------
+

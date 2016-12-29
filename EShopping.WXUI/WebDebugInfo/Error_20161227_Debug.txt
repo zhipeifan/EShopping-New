@@ -1,0 +1,63 @@
+2016/12/27 18:57:28 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:57:28 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":0,"CardNo":null,"Experience":0.0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":10.0,"CurrentWalletOfAll":0.0,"Integral":317,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":0,"CardNo":null,"Experience":0.0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":10.0,"CurrentWalletOfAll":0.0,"Integral":317,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:58:34 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:58:37 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":0,"CardNo":null,"Experience":0.0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":10.0,"CurrentWalletOfAll":0.0,"Integral":317,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+

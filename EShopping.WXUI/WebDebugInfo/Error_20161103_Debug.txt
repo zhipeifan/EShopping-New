@@ -1,0 +1,203 @@
+2016/11/3 19:30:01 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:30:01 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:33:02 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:33:02 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:35:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:35:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:41:03 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":35,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":null,"Signature":null,"userName":null,"nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"o414vwGvXuBaLVh2NUPBNV32LjpE","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":0.0,"CurrentWalletOfAll":0.0,"Integral":0,"money":0.0,"Level":0,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:47:32 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:47:32 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:48:08 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:48:08 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:48:34 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:48:34 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:49:42 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:49:42 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:50:03 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:50:03 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:50:31 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 19:50:31 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:31:25 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:31:25 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:32:31 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:32:31 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:33:06 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:33:06 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 20:38:59 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":35,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":null,"Signature":null,"userName":null,"nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"o414vwGvXuBaLVh2NUPBNV32LjpE","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":0.0,"CurrentWalletOfAll":0.0,"Integral":0,"money":0.0,"Level":0,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 21:39:03 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 21:39:03 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/11/3 21:39:52 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":35,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":null,"Signature":null,"userName":null,"nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"o414vwGvXuBaLVh2NUPBNV32LjpE","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":0.0,"CurrentWalletOfAll":0.0,"Integral":0,"money":0.0,"Level":0,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+

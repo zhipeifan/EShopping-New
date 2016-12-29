@@ -1,0 +1,36 @@
+2016/11/10 14:45:09 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\ShareOrder\ShareList.cshtml(21): error CS1061: “EShopping.Entity.Response.DTO.QueryShareInfoListDTO”不包含“userId”的定义，并且找不到可接受类型为“EShopping.Entity.Response.DTO.QueryShareInfoListDTO”的第一个参数的扩展方法“userId”(是否缺少 using 指令或程序集引用?)
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/10 14:56:35 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\UserCenter\MyShareOrderList.cshtml(76): error CS1061: “EShopping.Entity.Response.DTO.QueryShareInfoListDTO”不包含“id”的定义，并且找不到可接受类型为“EShopping.Entity.Response.DTO.QueryShareInfoListDTO”的第一个参数的扩展方法“id”(是否缺少 using 指令或程序集引用?)
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/10 14:59:48 --Error Start----------------
+Title : system error
+文件“D:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\WebDebugInfo\Error_20161110_Debug.txt”正由另一进程使用，因此该进程无法访问此文件。
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/10 15:03:48 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\UserCenter\MyShareOrderList.cshtml(76): error CS1061: “EShopping.Entity.Response.DTO.QueryShareInfoListDTO”不包含“id”的定义，并且找不到可接受类型为“EShopping.Entity.Response.DTO.QueryShareInfoListDTO”的第一个参数的扩展方法“id”(是否缺少 using 指令或程序集引用?)
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/10 15:17:12 --Error Start----------------
+Title : system error
+The if block is missing a closing "}" character.  Make sure you have a matching "}" character for all the "{" characters within this block, and that none of the "}" characters are being interpreted as markup.
+
+Exception : 
+
+Error-----------------Error   End-----------------
+

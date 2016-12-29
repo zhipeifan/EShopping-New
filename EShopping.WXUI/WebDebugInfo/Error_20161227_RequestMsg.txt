@@ -1,0 +1,392 @@
+2016/12/27 18:56:48 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:56:48 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:56:48 --Error Start----------------
+Title : queryIndex
+
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:56:53 --Error Start----------------
+Title : queryIndex
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"systemTime":1482836213682,"productVOs":[{"id":2797,"productBrand":"雀巢","productDetail":"规格参数\n产地：中国大陆 品牌：Nestle/雀巢进口/国产：国产种类：三合一是否含咖啡因：含咖啡因净重(g)：390包装：盒装","productLimit":38,"productName":"雀巢咖啡 1+2特浓390g/盒(30条x13g)","productPrice":38.0,"productRealPrice":"32.0","productTitle":"升级口味，1+2全新包装，更浓醇","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015DE1.jpg","prefecture":1,"spellbuyproductId":1397,"spellbuyCount":38,"spellbuyLimit":38,"licensingCode":"3001397","winnerTime":1482672900000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":38,"winnerBuyCode":"10000030","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2967,"productBrand":"金狮特","productDetail":"商品名称：金狮金狮特选开心果128g商品毛重：140.00g商品产地：马来西亚口味：原味产品产地：马来西亚分类：其它包装：其它包装单位：袋装","productLimit":37,"productName":"马来西亚原装进口 金狮特选开心果128g","productPrice":37.0,"productRealPrice":"31.0","productTitle":"马来西亚原装进口","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185DE1.jpg","prefecture":6,"spellbuyproductId":1566,"spellbuyCount":37,"spellbuyLimit":37,"licensingCode":"3001566","winnerTime":1482671100000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":37,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2795,"productBrand":"爱奇艺","productDetail":"点卡面值: 19.8爱奇艺产品: 爱奇艺黄金月卡自动充值","productLimit":24,"productName":"爱奇艺vip会员1个月","productPrice":24.0,"productRealPrice":"20.0","productTitle":"黄金会员月卡秒充 不支持TV端","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013DE1.jpg","prefecture":1,"spellbuyproductId":1911,"spellbuyCount":24,"spellbuyLimit":24,"licensingCode":"3001911","winnerTime":1481216700000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":24,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2795,"productBrand":"爱奇艺","productDetail":"点卡面值: 19.8爱奇艺产品: 爱奇艺黄金月卡自动充值","productLimit":24,"productName":"爱奇艺vip会员1个月","productPrice":24.0,"productRealPrice":"20.0","productTitle":"黄金会员月卡秒充 不支持TV端","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013DE1.jpg","prefecture":1,"spellbuyproductId":1395,"spellbuyCount":24,"spellbuyLimit":24,"licensingCode":"3001395","winnerTime":1481216160001,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":24,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2889,"productBrand":"SANSUNG","productDetail":"商品名称：note4s7穿戴蓝牙腕表WIFI可插卡 星空黑 星空黑商品毛重：1.0kg兼容性：Android表带材质：塑胶表盘样式：方形防水：生活防水功能：可通话适用人群：成年人","productLimit":2866,"productName":"三星(SAMSUNG)GearS R750智能手表","productPrice":2866.0,"productRealPrice":"2388.0","productTitle":"note4s7穿戴蓝牙腕表WIFI可插卡 星空黑","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107DE1.jpg","prefecture":6,"spellbuyproductId":1488,"spellbuyCount":2866,"spellbuyLimit":2866,"licensingCode":"3001488","winnerTime":1481211300000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":2866,"winnerBuyCode":"10001162","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":3537,"productBrand":"联通","productDetail":"产品名称：全国通用联通50元充值方式: 自动充值地区: 全国通用面值: 50元","productLimit":60,"productName":"全国通用联通50元 手机话费充值","productPrice":60.0,"productRealPrice":"50.0","productTitle":"全国通用联通50元 手机话费充值","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000759IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000759DE1.jpg","prefecture":2,"spellbuyproductId":1058,"spellbuyCount":60,"spellbuyLimit":60,"licensingCode":"3001058","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":60,"winnerBuyCode":"10000030","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0},{"id":3767,"productBrand":"威露士","productDetail":"商品名称：walch威露士泡沫洗手液300ml×3瓶 健康呵护 清新草本 滋润 青柠 随机发 小孩适商品毛重：1.35kg商品产地：中国大陆货号：300泡沫健康3瓶+小免洗分类：洗手液产品产地：中国大陆适用场景：厨房，卫浴","productLimit":40,"productName":"walch威露士泡沫洗手液300ml×3瓶 ","productPrice":40.0,"productRealPrice":"33.0","productTitle":"健康呵护 清新草本 滋润 青柠 随机发 小孩适","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998DE1.jpg","prefecture":2,"spellbuyproductId":820,"spellbuyCount":40,"spellbuyLimit":40,"licensingCode":"3000820","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":40,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0},{"id":3763,"productBrand":"宣琪 ","productDetail":"商品名称：宣琪搓泥浴宝套装商品毛重：0.72kg商品产地：北京市功效：其它香型：清香型净含量：500ml-750ml性别：男，女适用人群：成人分类：搓泥浴宝","productLimit":54,"productName":"宣琪 搓泥浴宝沐浴露套装 ","productPrice":54.0,"productRealPrice":"45.0","productTitle":"海洋经典200ml+桃花幼嫩200ml+茶树清凉200ml","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994DE1.jpg","prefecture":2,"spellbuyproductId":835,"spellbuyCount":54,"spellbuyLimit":54,"licensingCode":"3000835","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":54,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0}],"recommedVOs":[{"id":37,"status":0,"product":{"id":2793,"productBrand":"浪莎","productDetail":"规格参数\n筒高：短统（筒）袜 品牌：浪莎厚度：中等消费群体：男性季节：夏/冬/春/秋类型：普通袜款式细节：镂空/常规功能用途：保暖/运动材质：其它材质风格：百搭/休闲/学院","productLimit":0,"productName":"浪莎 6双礼盒装春秋款男袜 ","productPrice":58.0,"productRealPrice":"48.0","productTitle":"柔软舒适 均码 颜色随机","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011DE1.jpg","prefecture":1,"spellbuyproductId":1393,"spellbuyCount":19,"spellbuyLimit":58,"licensingCode":"3001393","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":38,"status":0,"product":{"id":2792,"productBrand":"DOVE","productDetail":"规格参数\n产地：中国大陆 品牌：DOVE/多芬保质期：1095容量：601ml至750ml包装：单件装净含量（ml/g）：720ml是否带泵：带泵","productLimit":0,"productName":"DOVE 多芬 滋养美肤沐浴乳 720克 深层营润","productPrice":40.0,"productRealPrice":"33.0","productTitle":"沐浴露 沐浴液 滋润 预防干燥","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010DE1.jpg","prefecture":1,"spellbuyproductId":1392,"spellbuyCount":6,"spellbuyLimit":40,"licensingCode":"3001392","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":39,"status":0,"product":{"id":2791,"productBrand":"潘婷","productDetail":"规格参数\n保质期：36个月 品牌：潘婷包装规格：正常规格净含量（ml/g）：750ml适合发质：所有发质适用对象：所有人群产地：中国大陆","productLimit":0,"productName":"潘婷 乳液修护 去屑洗发露 750ml","productPrice":58.0,"productRealPrice":"48.0","productTitle":"有效去屑 修护损伤直至发梢 ","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009DE1.jpg","prefecture":1,"spellbuyproductId":1391,"spellbuyCount":25,"spellbuyLimit":58,"licensingCode":"3001391","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":40,"status":0,"product":{"id":2790,"productBrand":"天天果园","productDetail":"规格参数\n产地：中国大陆","productLimit":0,"productName":"天天果园 100元充值卡现水果现金卡券","productPrice":114.0,"productRealPrice":"95.0","productTitle":"可在线直接发卡密","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000008IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000008DE1.jpg","prefecture":1,"spellbuyproductId":1390,"spellbuyCount":2,"spellbuyLimit":114,"licensingCode":"3001390","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":41,"status":0,"product":{"id":2789,"productBrand":"奔腾","productDetail":"规格参数\n使用环境：干湿两用 品牌：奔腾供电方式：充电刀头数量：三刀头是否带鬓角刀：带鬓角刀电量显示：有电量显示型号：pd9201类型：旋转式剃须刀国产/进口：全国产","productLimit":0,"productName":"奔腾 PQ9201男士电动剃须刀刮胡刀4D智能浮动旋转式三刀头","productPrice":239.0,"productRealPrice":"199.0","productTitle":"tixudao3刀头有电量显示 可全身水洗","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG3.jpg","coverImg4":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG4.jpg","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007DE1.jpg","prefecture":1,"spellbuyproductId":1389,"spellbuyCount":1,"spellbuyLimit":239,"licensingCode":"3001389","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":42,"status":0,"product":{"id":2788,"productBrand":"薇婷","productDetail":"规格参数\n品牌归属地：欧美品牌 品牌：薇婷产地：其它国家类别：脱毛膏原料成分：水、尿素、液体石蜡、巯基乙酸钾、鲸蜡硬脂醇、氢氧化钙、滑石粉、鲸蜡硬脂醇醚-20、甘油、三硅酸镁、香精、CI 77891、丙二醇、硅酸钠镁、丙烯酸（酸）类共聚物、葡糖酸钠、等成分容量：60g包装规格：单件装保质期：三年","productLimit":0,"productName":"薇婷 脱毛膏 敏感肌肤","productPrice":47.0,"productRealPrice":"39.0","productTitle":"芦荟精华 维生素E","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006DE1.jpg","prefecture":1,"spellbuyproductId":1388,"spellbuyCount":18,"spellbuyLimit":47,"licensingCode":"3001388","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}}],"indexImgVOs":[{"id":1,"proImg":"http://114.55.140.242:8080/yigoushopping-imgs/indexImg/46c03595-3f38-4498-9747-a1ec19c531ba_B.jpg","proUrl":"http://114.55.140.242:8080/yigoushopping-imgs/indexImg/46c03595-3f38-4498-9747-a1ec19c531ba_B.jpg","status":0,"title":"雅马哈","product":{"id":3776,"productBrand":"雅马哈","productDetail":"商品名称：雅马哈(YAMAHA)电子琴成年人初学演奏型61键 E353主机+琴架+琴包+耳机等配件商品毛重：8.5kg音色数：200种以上最大复音数：32分类：电子琴键盘数：61颜色：银灰色","productLimit":0,"productName":"雅马哈(YAMAHA)电子琴成年人初学电子琴","productPrice":1116.0,"productRealPrice":"930.0","productTitle":"演奏型61键 E353主机+琴架+琴包+耳机等配件","singlePrice":0,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007DE1.jpg","prefecture":6,"spellbuyCount":0,"spellbuyLimit":0,"winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}}]}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:56:54 --Error Start----------------
+Title : queryWinnersList
+
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:56:54 --Error Start----------------
+Title : queryWinnersList
+{"responseStatus":{"statusCode":5003,"statusDes":"请求体不能为空"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:15 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:15 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:15 --Error Start----------------
+Title : queryIndex
+
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:20 --Error Start----------------
+Title : queryIndex
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"systemTime":1482836239821,"productVOs":[{"id":2797,"productBrand":"雀巢","productDetail":"规格参数\n产地：中国大陆 品牌：Nestle/雀巢进口/国产：国产种类：三合一是否含咖啡因：含咖啡因净重(g)：390包装：盒装","productLimit":38,"productName":"雀巢咖啡 1+2特浓390g/盒(30条x13g)","productPrice":38.0,"productRealPrice":"32.0","productTitle":"升级口味，1+2全新包装，更浓醇","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000015DE1.jpg","prefecture":1,"spellbuyproductId":1397,"spellbuyCount":38,"spellbuyLimit":38,"licensingCode":"3001397","winnerTime":1482672900000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":38,"winnerBuyCode":"10000030","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2967,"productBrand":"金狮特","productDetail":"商品名称：金狮金狮特选开心果128g商品毛重：140.00g商品产地：马来西亚口味：原味产品产地：马来西亚分类：其它包装：其它包装单位：袋装","productLimit":37,"productName":"马来西亚原装进口 金狮特选开心果128g","productPrice":37.0,"productRealPrice":"31.0","productTitle":"马来西亚原装进口","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000185DE1.jpg","prefecture":6,"spellbuyproductId":1566,"spellbuyCount":37,"spellbuyLimit":37,"licensingCode":"3001566","winnerTime":1482671100000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":37,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2795,"productBrand":"爱奇艺","productDetail":"点卡面值: 19.8爱奇艺产品: 爱奇艺黄金月卡自动充值","productLimit":24,"productName":"爱奇艺vip会员1个月","productPrice":24.0,"productRealPrice":"20.0","productTitle":"黄金会员月卡秒充 不支持TV端","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013DE1.jpg","prefecture":1,"spellbuyproductId":1911,"spellbuyCount":24,"spellbuyLimit":24,"licensingCode":"3001911","winnerTime":1481216700000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":24,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2795,"productBrand":"爱奇艺","productDetail":"点卡面值: 19.8爱奇艺产品: 爱奇艺黄金月卡自动充值","productLimit":24,"productName":"爱奇艺vip会员1个月","productPrice":24.0,"productRealPrice":"20.0","productTitle":"黄金会员月卡秒充 不支持TV端","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000013DE1.jpg","prefecture":1,"spellbuyproductId":1395,"spellbuyCount":24,"spellbuyLimit":24,"licensingCode":"3001395","winnerTime":1481216160001,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":24,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":2889,"productBrand":"SANSUNG","productDetail":"商品名称：note4s7穿戴蓝牙腕表WIFI可插卡 星空黑 星空黑商品毛重：1.0kg兼容性：Android表带材质：塑胶表盘样式：方形防水：生活防水功能：可通话适用人群：成年人","productLimit":2866,"productName":"三星(SAMSUNG)GearS R750智能手表","productPrice":2866.0,"productRealPrice":"2388.0","productTitle":"note4s7穿戴蓝牙腕表WIFI可插卡 星空黑","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000107DE1.jpg","prefecture":6,"spellbuyproductId":1488,"spellbuyCount":2866,"spellbuyLimit":2866,"licensingCode":"3001488","winnerTime":1481211300000,"winnerStatus":1,"winnerUserName":"timH","winnerUserId":1,"winnerUserBuyCount":2866,"winnerBuyCode":"10001162","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx8.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0},{"id":3537,"productBrand":"联通","productDetail":"产品名称：全国通用联通50元充值方式: 自动充值地区: 全国通用面值: 50元","productLimit":60,"productName":"全国通用联通50元 手机话费充值","productPrice":60.0,"productRealPrice":"50.0","productTitle":"全国通用联通50元 手机话费充值","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000759IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000759DE1.jpg","prefecture":2,"spellbuyproductId":1058,"spellbuyCount":60,"spellbuyLimit":60,"licensingCode":"3001058","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":60,"winnerBuyCode":"10000030","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0},{"id":3767,"productBrand":"威露士","productDetail":"商品名称：walch威露士泡沫洗手液300ml×3瓶 健康呵护 清新草本 滋润 青柠 随机发 小孩适商品毛重：1.35kg商品产地：中国大陆货号：300泡沫健康3瓶+小免洗分类：洗手液产品产地：中国大陆适用场景：厨房，卫浴","productLimit":40,"productName":"walch威露士泡沫洗手液300ml×3瓶 ","productPrice":40.0,"productRealPrice":"33.0","productTitle":"健康呵护 清新草本 滋润 青柠 随机发 小孩适","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000998DE1.jpg","prefecture":2,"spellbuyproductId":820,"spellbuyCount":40,"spellbuyLimit":40,"licensingCode":"3000820","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":40,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0},{"id":3763,"productBrand":"宣琪 ","productDetail":"商品名称：宣琪搓泥浴宝套装商品毛重：0.72kg商品产地：北京市功效：其它香型：清香型净含量：500ml-750ml性别：男，女适用人群：成人分类：搓泥浴宝","productLimit":54,"productName":"宣琪 搓泥浴宝沐浴露套装 ","productPrice":54.0,"productRealPrice":"45.0","productTitle":"海洋经典200ml+桃花幼嫩200ml+茶树清凉200ml","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000994DE1.jpg","prefecture":2,"spellbuyproductId":835,"spellbuyCount":54,"spellbuyLimit":54,"licensingCode":"3000835","winnerTime":1481099160001,"winnerStatus":1,"winnerUserName":"小鸭子","winnerUserId":74,"winnerUserBuyCount":54,"winnerBuyCode":"10000001","winnerFaceImg":"http://114.55.140.242:8080/yigoushopping-imgs/userFaceImg/yg_icon_tx11.png.png","winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"ipAddress":"100.81.87.251","spellBuyType":0,"createTime":0}],"recommedVOs":[{"id":37,"status":0,"product":{"id":2793,"productBrand":"浪莎","productDetail":"规格参数\n筒高：短统（筒）袜 品牌：浪莎厚度：中等消费群体：男性季节：夏/冬/春/秋类型：普通袜款式细节：镂空/常规功能用途：保暖/运动材质：其它材质风格：百搭/休闲/学院","productLimit":0,"productName":"浪莎 6双礼盒装春秋款男袜 ","productPrice":58.0,"productRealPrice":"48.0","productTitle":"柔软舒适 均码 颜色随机","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000011DE1.jpg","prefecture":1,"spellbuyproductId":1393,"spellbuyCount":19,"spellbuyLimit":58,"licensingCode":"3001393","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":38,"status":0,"product":{"id":2792,"productBrand":"DOVE","productDetail":"规格参数\n产地：中国大陆 品牌：DOVE/多芬保质期：1095容量：601ml至750ml包装：单件装净含量（ml/g）：720ml是否带泵：带泵","productLimit":0,"productName":"DOVE 多芬 滋养美肤沐浴乳 720克 深层营润","productPrice":40.0,"productRealPrice":"33.0","productTitle":"沐浴露 沐浴液 滋润 预防干燥","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000010DE1.jpg","prefecture":1,"spellbuyproductId":1392,"spellbuyCount":6,"spellbuyLimit":40,"licensingCode":"3001392","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":39,"status":0,"product":{"id":2791,"productBrand":"潘婷","productDetail":"规格参数\n保质期：36个月 品牌：潘婷包装规格：正常规格净含量（ml/g）：750ml适合发质：所有发质适用对象：所有人群产地：中国大陆","productLimit":0,"productName":"潘婷 乳液修护 去屑洗发露 750ml","productPrice":58.0,"productRealPrice":"48.0","productTitle":"有效去屑 修护损伤直至发梢 ","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000009DE1.jpg","prefecture":1,"spellbuyproductId":1391,"spellbuyCount":25,"spellbuyLimit":58,"licensingCode":"3001391","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":40,"status":0,"product":{"id":2790,"productBrand":"天天果园","productDetail":"规格参数\n产地：中国大陆","productLimit":0,"productName":"天天果园 100元充值卡现水果现金卡券","productPrice":114.0,"productRealPrice":"95.0","productTitle":"可在线直接发卡密","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000008IMG1.jpg","coverImg2":"","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000008DE1.jpg","prefecture":1,"spellbuyproductId":1390,"spellbuyCount":2,"spellbuyLimit":114,"licensingCode":"3001390","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":41,"status":0,"product":{"id":2789,"productBrand":"奔腾","productDetail":"规格参数\n使用环境：干湿两用 品牌：奔腾供电方式：充电刀头数量：三刀头是否带鬓角刀：带鬓角刀电量显示：有电量显示型号：pd9201类型：旋转式剃须刀国产/进口：全国产","productLimit":0,"productName":"奔腾 PQ9201男士电动剃须刀刮胡刀4D智能浮动旋转式三刀头","productPrice":239.0,"productRealPrice":"199.0","productTitle":"tixudao3刀头有电量显示 可全身水洗","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG3.jpg","coverImg4":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007IMG4.jpg","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000007DE1.jpg","prefecture":1,"spellbuyproductId":1389,"spellbuyCount":1,"spellbuyLimit":239,"licensingCode":"3001389","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}},{"id":42,"status":0,"product":{"id":2788,"productBrand":"薇婷","productDetail":"规格参数\n品牌归属地：欧美品牌 品牌：薇婷产地：其它国家类别：脱毛膏原料成分：水、尿素、液体石蜡、巯基乙酸钾、鲸蜡硬脂醇、氢氧化钙、滑石粉、鲸蜡硬脂醇醚-20、甘油、三硅酸镁、香精、CI 77891、丙二醇、硅酸钠镁、丙烯酸（酸）类共聚物、葡糖酸钠、等成分容量：60g包装规格：单件装保质期：三年","productLimit":0,"productName":"薇婷 脱毛膏 敏感肌肤","productPrice":47.0,"productRealPrice":"39.0","productTitle":"芦荟精华 维生素E","singlePrice":1,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006IMG2.jpg","coverImg3":"","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00000006DE1.jpg","prefecture":1,"spellbuyproductId":1388,"spellbuyCount":18,"spellbuyLimit":47,"licensingCode":"3001388","winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}}],"indexImgVOs":[{"id":1,"proImg":"http://114.55.140.242:8080/yigoushopping-imgs/indexImg/46c03595-3f38-4498-9747-a1ec19c531ba_B.jpg","proUrl":"http://114.55.140.242:8080/yigoushopping-imgs/indexImg/46c03595-3f38-4498-9747-a1ec19c531ba_B.jpg","status":0,"title":"雅马哈","product":{"id":3776,"productBrand":"雅马哈","productDetail":"商品名称：雅马哈(YAMAHA)电子琴成年人初学演奏型61键 E353主机+琴架+琴包+耳机等配件商品毛重：8.5kg音色数：200种以上最大复音数：32分类：电子琴键盘数：61颜色：银灰色","productLimit":0,"productName":"雅马哈(YAMAHA)电子琴成年人初学电子琴","productPrice":1116.0,"productRealPrice":"930.0","productTitle":"演奏型61键 E353主机+琴架+琴包+耳机等配件","singlePrice":0,"status":1,"coverImg1":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG1.jpg","coverImg2":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG2.jpg","coverImg3":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007IMG3.jpg","coverImg4":"","coverImg5":"","detailImg":"http://114.55.140.242:8080/yigoushopping-imgs/productImg/SP00001007DE1.jpg","prefecture":6,"spellbuyCount":0,"spellbuyLimit":0,"winnerStatus":0,"winnerUserBuyCount":0,"winnerBuyTime":0,"systemTime":0,"currentUserBuyCount":0,"spellBuyType":0,"createTime":0}}]}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:20 --Error Start----------------
+Title : queryWinnersList
+
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:20 --Error Start----------------
+Title : queryWinnersList
+{"responseStatus":{"statusCode":5003,"statusDes":"请求体不能为空"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:24 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:24 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:28 --Error Start----------------
+Title : queryUserInfo
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:28 --Error Start----------------
+Title : queryUserInfo
+{"responseData":{"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:28 --Error Start----------------
+Title : queryLevelConfig
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:28 --Error Start----------------
+Title : queryLevelConfig
+{"responseData":{"currentExpense":317.0,"currentLevel":1,"nextLevelNeedExpense":9763.0,"levelConfigVOs":[{"id":1,"level":0,"allExpense":0.0},{"id":2,"level":1,"allExpense":5080.0},{"id":3,"level":2,"allExpense":10080.0},{"id":4,"level":3,"allExpense":20080.0},{"id":5,"level":4,"allExpense":40080.0},{"id":6,"level":5,"allExpense":60080.0},{"id":7,"level":6,"allExpense":100080.0},{"id":8,"level":7,"allExpense":200080.0},{"id":9,"level":8,"allExpense":400080.0},{"id":10,"level":9,"allExpense":800080.0},{"id":11,"level":10,"allExpense":1600080.0},{"id":12,"level":11,"allExpense":3200080.0},{"id":13,"level":12,"allExpense":6400080.0},{"id":14,"level":13,"allExpense":1.280008E7},{"id":15,"level":14,"allExpense":2.560008E7},{"id":16,"level":15,"allExpense":5.120008E7},{"id":17,"level":16,"allExpense":1.0240008E8},{"id":18,"level":17,"allExpense":2.0480008E8},{"id":19,"level":18,"allExpense":4.0960008E8},{"id":20,"level":19,"allExpense":8.1920008E8}]},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:33 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:33 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227184555.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : updateUserInfo
+{"payload":"{'userId':49,'nickName':'樊智佩','mobilePhone':null,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg'}","token":"f9140196-1de4-400e-ba12-190352d45578"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : updateUserInfo
+{"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : queryUserInfo
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : queryUserInfo
+{"responseData":{"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:40 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':0,'CardNo':null,'Experience':0.0,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : queryUserInfo
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : queryUserInfo
+{"responseData":{"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':0,'CardNo':null,'Experience':0.0,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : queryLevelConfig
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:57:48 --Error Start----------------
+Title : queryLevelConfig
+{"responseData":{"currentExpense":317.0,"currentLevel":1,"nextLevelNeedExpense":9763.0,"levelConfigVOs":[{"id":1,"level":0,"allExpense":0.0},{"id":2,"level":1,"allExpense":5080.0},{"id":3,"level":2,"allExpense":10080.0},{"id":4,"level":3,"allExpense":20080.0},{"id":5,"level":4,"allExpense":40080.0},{"id":6,"level":5,"allExpense":60080.0},{"id":7,"level":6,"allExpense":100080.0},{"id":8,"level":7,"allExpense":200080.0},{"id":9,"level":8,"allExpense":400080.0},{"id":10,"level":9,"allExpense":800080.0},{"id":11,"level":10,"allExpense":1600080.0},{"id":12,"level":11,"allExpense":3200080.0},{"id":13,"level":12,"allExpense":6400080.0},{"id":14,"level":13,"allExpense":1.280008E7},{"id":15,"level":14,"allExpense":2.560008E7},{"id":16,"level":15,"allExpense":5.120008E7},{"id":17,"level":16,"allExpense":1.0240008E8},{"id":18,"level":17,"allExpense":2.0480008E8},{"id":19,"level":18,"allExpense":4.0960008E8},{"id":20,"level":19,"allExpense":8.1920008E8}]},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:24 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:24 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:31 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:31 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185740.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:31 --Error Start----------------
+Title : updateUserInfo
+{"payload":"{'userId':49,'nickName':'樊智佩','mobilePhone':null,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg'}","token":"f9140196-1de4-400e-ba12-190352d45578"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:32 --Error Start----------------
+Title : updateUserInfo
+{"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:32 --Error Start----------------
+Title : queryUserInfo
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:32 --Error Start----------------
+Title : queryUserInfo
+{"responseData":{"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:32 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':49,'CardNo':null,'Experience':0.0,'faceImg':'http://wx.qlogo.cn/mmopen/I3ObIAeO7DBPuAib3ZNESZrojvZ87CkiacT3T3tZeWheoL6q15x9ryhaia057gN9ToJk0ZEMsoSekCK6ibpLtacqmGTvII49sF92/0','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:32 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:34 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':0,'CardNo':null,'Experience':0.0,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:34 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:37 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':0,'CardNo':null,'Experience':0.0,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:37 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:37 --Error Start----------------
+Title : queryUserInfo
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:37 --Error Start----------------
+Title : queryUserInfo
+{"responseData":{"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : verifyOtherLogin
+{"payload":"{'loginType':2,'userId':0,'CardNo':null,'Experience':0.0,'faceImg':'http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg','Invite':0,'email':null,'mailCheck':null,'mobileCheck':null,'mobilePhone':null,'sex':null,'Signature':null,'userName':'ogbQmweVZNLl3pbVu-rzaTRveU0g','nickName':'樊智佩','UserType':null,'QQ':null,'weixinOpenId':'ogbQmweVZNLl3pbVu-rzaTRveU0g','RedPacketMoenyOfAll':0.0,'BuyMoneyOfAll':0.0,'CurrentWalletOfAll':0.0,'Integral':0,'money':0.0,'Level':0,'nextLevelNeedExpense':0,'NewFaceImg':null}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : verifyOtherLogin
+{"responseStatus":{"statusCode":200,"statusDes":"200"},"responseData":{"userId":49,"experience":0,"faceImg":"http://114.55.140.242:8080/yigoushopping-imgs/shareInfoImg/20161227185831.jpg","invite":0,"sex":"1","userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","lastUpdateTime":"Dec 21, 2016 3:42:00 PM","redPacketMoenyOfAll":0.0,"buyMoneyOfAll":10.0,"currentWalletOfAll":0.0,"integral":317,"level":1,"exchangeMoney":0.0,"exchangeIntegral":0,"inviteCode":"3000048"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : queryLevelConfig
+{"payload":"{'userId':49}"}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+
+2016/12/27 18:58:54 --Error Start----------------
+Title : queryLevelConfig
+{"responseData":{"currentExpense":317.0,"currentLevel":1,"nextLevelNeedExpense":9763.0,"levelConfigVOs":[{"id":1,"level":0,"allExpense":0.0},{"id":2,"level":1,"allExpense":5080.0},{"id":3,"level":2,"allExpense":10080.0},{"id":4,"level":3,"allExpense":20080.0},{"id":5,"level":4,"allExpense":40080.0},{"id":6,"level":5,"allExpense":60080.0},{"id":7,"level":6,"allExpense":100080.0},{"id":8,"level":7,"allExpense":200080.0},{"id":9,"level":8,"allExpense":400080.0},{"id":10,"level":9,"allExpense":800080.0},{"id":11,"level":10,"allExpense":1600080.0},{"id":12,"level":11,"allExpense":3200080.0},{"id":13,"level":12,"allExpense":6400080.0},{"id":14,"level":13,"allExpense":1.280008E7},{"id":15,"level":14,"allExpense":2.560008E7},{"id":16,"level":15,"allExpense":5.120008E7},{"id":17,"level":16,"allExpense":1.0240008E8},{"id":18,"level":17,"allExpense":2.0480008E8},{"id":19,"level":18,"allExpense":4.0960008E8},{"id":20,"level":19,"allExpense":8.1920008E8}]},"responseStatus":{"statusCode":200,"statusDes":"200"}}
+Exception : 
+
+RequestMsg-----------------Error   End-----------------
+

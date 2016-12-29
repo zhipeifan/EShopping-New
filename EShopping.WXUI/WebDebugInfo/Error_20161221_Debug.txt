@@ -1,0 +1,210 @@
+2016/12/21 14:35:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:35:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:35:29 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:48:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:48:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:48:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:49:07 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:49:09 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:49:10 --Error Start----------------
+Title : 
+ 支付Request{"partnerId":"1381539402","prepayId":"","sign":"D7DEFD1233C78B22399CE1580A8B3446","timestamp":"1482302950","nonceStr":"33e75ff09dd601bbe69f351039152189","AppId":"wx2a31736af6d953ae","OrderCode":"978601482302947935","Package":"prepay_id=","PayType":2}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:50:15 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:50:15 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:50:18 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:51:49 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:52:01 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:52:42 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:52:42 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:52:44 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 14:55:36 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 15:41:35 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 15:41:35 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 15:41:40 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 15:41:46 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 15:42:05 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":49,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/eBVWS0yqibD9QtnxSPktlgXFbGruoWWgyBlYgic6OMd2BTYib7YZdYicgwbMgr5HiaqaQQlEDRuTO3GlqWCjIJkuLVZdvxqKxibKP9/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":7.0,"CurrentWalletOfAll":0.0,"Integral":17,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 16:25:05 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 16:25:05 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 16:25:16 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 17:52:55 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 17:52:55 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 17:52:58 --Error Start----------------
+Title : 
+UserInfo1
+Exception : 
+
+Debug-----------------Error   End-----------------
+
+2016/12/21 17:55:06 --Error Start----------------
+Title : 回调结束
+{"loginType":2,"userId":49,"CardNo":null,"Experience":0.0,"faceImg":"http://wx.qlogo.cn/mmopen/eBVWS0yqibD9QtnxSPktlgXFbGruoWWgyBlYgic6OMd2BTYib7YZdYicgwbMgr5HiaqaQQlEDRuTO3GlqWCjIJkuLVZdvxqKxibKP9/0","Invite":0,"email":null,"mailCheck":null,"mobileCheck":null,"mobilePhone":null,"sex":"1","Signature":null,"userName":"ogbQmweVZNLl3pbVu-rzaTRveU0g","nickName":"樊智佩","UserType":null,"QQ":null,"weixinOpenId":"ogbQmweVZNLl3pbVu-rzaTRveU0g","RedPacketMoenyOfAll":0.0,"BuyMoneyOfAll":10.0,"CurrentWalletOfAll":0.0,"Integral":317,"money":0.0,"Level":1,"nextLevelNeedExpense":0,"NewFaceImg":null}
+Exception : 
+
+Debug-----------------Error   End-----------------
+

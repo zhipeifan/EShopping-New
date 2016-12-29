@@ -1,0 +1,200 @@
+﻿@using EShopping.Entity.Response.DTO;
+@using EShopping.Common;
+@using EShopping.WXUI.Models
+
+
+@model List<ProductDTO>
+
+
+@{
+    int categoryId = (int)ViewBag.CategoryId;
+    int tcategoryId = (int)ViewBag.TCategoryId;
+    int areaId = (int)ViewBag.AreaTypeId;
+
+    int pageIndex = (int)ViewBag.PageIndex;
+    int pageSize = (int)ViewBag.PageSize;
+
+    var productTypes = (List<ProductTypeDTO>)ViewBag.ProductTypes;
+
+}
+
+<link rel="stylesheet" href="@Url.Content("~/css/loadCss/pullToRefresh.css")" />
+<link rel="stylesheet" href="@Url.Content("~/css/selectCss.css")" />
+<style type="text/css">
+    .u-flyer {
+        display: block;
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    #sMsg {
+        position: fixed;
+        bottom: 8rem;
+        right: 0px;
+        z-index: 10000;
+        width: 1px;
+        height: 2rem;
+        line-height: 2rem;
+        font-size: 20px;
+        text-align: center;
+        color: #fff;
+        background: #B70000;
+        display: none;
+    }
+</style>
+<script type="text/javascript" src="@Url.Content("~/js/loadJs/colorful.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/loadJs/iscroll.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/loadJs/pullToRefresh.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/BussinesJs/shoppingCar.js")"></script>
+<script type="text/javascript">
+    
+    var shppoingItemUrl="@Url.Action("ProductItems", "Product")";
+
+</script>
+
+<header id="header" class="shopcar-top">
+    <h2>全部商品</h2>
+</header>
+<section id="page-content" class="shopcar-content">
+    <div class="fullrank">
+        <ul>
+            <li class="@((areaId == 0) ? "curr" : "")"><a href="@Url.Action("List", "Product", new { categoryId = categoryId })" title="最新">最新</a></li>
+            <li class="@((areaId == 1) ? "curr" : "")"><a href="@Url.Action("List", "Product", new { categoryId = categoryId, areaId = 1 })" title="最快">最快</a></li>
+            <li class="@((areaId == 2) ? "curr" : "")"><a href="@Url.Action("List", "Product", new { categoryId = categoryId, areaId = 2 })" title="最热">最热</a></li>
+
+            <li class="@((areaId == 3) ? "curr" : "")"><a href="@Url.Action("List", "Product", new { categoryId = categoryId, areaId = 3, })" title="价格">价格↑</a></li>
+
+            <li class="@((areaId == 4) ? "curr" : "")"><a href="@Url.Action("List", "Product", new { categoryId = categoryId, areaId = 4 })" title="价格">价格↓</a></li>
+
+        </ul>
+    </div>
+    <div class="fullinner">
+        <div class="fullmenu">
+            <ul>
+                <li class="@((categoryId == 0&&tcategoryId==0) ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 0, areaId = areaId })" title="全部商品">全部商品</li></a>
+                <li class="@(categoryId == 1 ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 1, areaId = areaId })" title="新手专区">新手专区</a></li>
+                <li class="@(categoryId == 2 ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 2, areaId = areaId })" title="大众专区">大众专区</a></li>
+                <li class="@(categoryId == 3 ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 3, areaId = areaId })" title="土豪专区">土豪专区</a></li>
+                <li class="@(categoryId == 4 ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 4, areaId = areaId })" title="限购专区">限购专区</a></li>
+                @*<li class="@(categoryId == 5 ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 5, areaId = areaId })" title="返现专区">返现专区</a></li>*@
+                @if (productTypes != null && productTypes.Count > 0)
+{
+    foreach (var item in productTypes)
+    {
+        <li class="@(tcategoryId ==item.id ? "currMenu" : "")"><a href="@Url.Action("List", "Product", new { categoryId = 0, areaId = 0, tcategoryId=@item.id })" title="商品分类">@item.typeName </a></li>
+    }
+}
+
+            </ul>
+        </div>
+        <div class="fullgoods-list">
+            <ul class="products">
+                @if (Model != null && Model.Count > 0)
+                {
+                    @Html.Partial("ProductItems", Model);
+                    @*foreach (var item in Model)
+                    {
+                        
+                        
+                        <li>
+                            <a href="@Url.Action("Detail", "Product", new { id = item.Id, spellBuyProductId = item.spellbuyproductId })">
+                                <img src="@(item.coverImg1)" />
+                                <span class="prodtitle">@item.productName</span>
+                                <span class="prodlott">开奖进度<em>@(ExtendUtility.ConvertProductspeed(item.productLimit, item.spellbuyCount))</em></span>
+                                <span class="pacet"><em></em></span>
+                                <a href="javascript:;" class="iaddcar" pid="@item.Id" spellbuyproductid="@item.spellbuyproductId"></a>
+                                <span class="prodns">
+                                    <em>总需@(item.productLimit)</em>
+                                    <em>剩余<i>@((item.productLimit - item.spellbuyCount) < 0 ? 0 : item.productLimit - item.spellbuyCount)</i></em>
+                                </span>
+                            </a>
+                            <span class="dzzqu"></span>
+                        </li>
+                    }*@
+                }
+            </ul>
+            @Html.HiddenFor(c => categoryId)
+            @Html.HiddenFor(c => tcategoryId)
+            @Html.HiddenFor(c => areaId)
+
+            @Html.HiddenFor(c => pageIndex)
+            @Html.HiddenFor(c => pageSize)
+
+            <ul class="">
+                <div class="pullUp" style="display: block; line-height: 40px;">
+                    <div class="loader" style="display: none;">
+                        <span></span><span></span><span></span><span></span>
+                    </div><div class="pullUpLabel">
+                        <img src="~/Images/up.png" height="12px" />... 加载更多数据... <img src="~/Images/up.png" height="12px" />
+                    </div>
+                </div>
+            </ul>
+        </div>
+    </div>
+
+</section>
+
+<script type="text/javascript">
+    $(function () {
+        $(window).scroll(function () {
+            var scrollTop = $(this).scrollTop();
+            var scrollHeight = $('#page-content').outerHeight();
+            var wHeight = $(this).height() - $('#footer').height() - 1;
+            if (wHeight + scrollTop >= scrollHeight) {
+
+                var categoryId = $("#categoryId").val();
+                var tcategoryId = $("#tcategoryId").val();
+                var areaId = $("#areaId").val();
+                var pageIndex = $("#pageIndex").val();
+                var pageSize = $("#pageSize").val();
+
+                var data = {
+                    categoryId: categoryId,
+                    tcategoryId: tcategoryId,
+                    areaId: areaId,
+                    pageIndex: pageIndex,
+                    pageSize: pageSize
+                };
+
+                $(".loader").show();
+
+                $.ajax({
+                    type: "post",
+                    url: shppoingItemUrl,
+                    data: data,
+                    dataType: "html",
+                    success: function (response) {
+                        $('.products').append(response);
+                        $('img.lazy').lazyload({ threshold: 200 });
+                        $("#pageIndex").val(parseInt(pageIndex) + 1);
+                        $(".loader").hide();
+                        if ($.trim(response) == "")
+                        {
+                            $(".pullUpLabel").html("亲，以上就是全部商品哟。");
+                        }
+                    }
+                });
+            };
+        });
+
+        $.each($('#prodPageList').find('.pitem .pitem-list'), function (i, ele) {
+            $(ele).on('click', function () {
+                if ($(ele).next('.lr-pad').hasClass('show')) {
+                    $(ele).find('h4').addClass('curr')
+                    $(ele).next('.lr-pad').removeClass('show').addClass('hide');
+                } else {
+                    $(ele).find('h4').removeClass('curr')
+                    $(ele).next('.lr-pad').removeClass('hide').addClass('show');
+                }
+
+            })
+        })
+
+    });
+
+
+</script>
+

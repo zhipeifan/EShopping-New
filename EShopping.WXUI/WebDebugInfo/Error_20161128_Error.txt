@@ -1,0 +1,62 @@
+2016/11/28 21:43:47 --Error Start----------------
+Title : system error
+文件“D:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\WebDebugInfo\Error_20161128_Debug.txt”正由另一进程使用，因此该进程无法访问此文件。
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:11:16 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\Product\Detail.cshtml(155): error CS0103: 当前上下文中不存在名称“item”
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:27:00 --Error Start----------------
+Title : system error
+A space or line break was encountered after the "@" character.  Only valid identifiers, keywords, comments, "(" and "{" are valid at the start of a code block and they must occur immediately following "@" with no space in between.
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:27:18 --Error Start----------------
+Title : system error
+A space or line break was encountered after the "@" character.  Only valid identifiers, keywords, comments, "(" and "{" are valid at the start of a code block and they must occur immediately following "@" with no space in between.
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:27:39 --Error Start----------------
+Title : system error
+The code block is missing a closing "}" character.  Make sure you have a matching "}" character for all the "{" characters within this block, and that none of the "}" characters are being interpreted as markup.
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:28:05 --Error Start----------------
+Title : system error
+The code block is missing a closing "}" character.  Make sure you have a matching "}" character for all the "{" characters within this block, and that none of the "}" characters are being interpreted as markup.
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:29:12 --Error Start----------------
+Title : system error
+Encountered end tag "div" with no matching start tag.  Are your start/end tags properly balanced?
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/11/28 22:30:37 --Error Start----------------
+Title : system error
+Encountered end tag "div" with no matching start tag.  Are your start/end tags properly balanced?
+
+Exception : 
+
+Error-----------------Error   End-----------------
+

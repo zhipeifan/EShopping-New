@@ -1,0 +1,50 @@
+2016/12/26 19:18:11 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\Product\SearchResult.cshtml(35): error CS0103: 当前上下文中不存在名称“item”
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 19:30:48 --Error Start----------------
+Title : system error
+d:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\Views\Product\SearchResult.cshtml(12): error CS1646: 原义说明符 @ 之后应为关键字、标识符或字符串
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 19:32:59 --Error Start----------------
+Title : system error
+An opening "(" is missing the corresponding closing ")".
+
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 20:18:00 --Error Start----------------
+Title : system error
+文件“D:\Pirvate\EShoppingNew\Source\EShopping\EShopping.WXUI\WebDebugInfo\Error_20161226_Debug.txt”正由另一进程使用，因此该进程无法访问此文件。
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 20:55:24 --Error Start----------------
+Title : system error
+The controller for path '/images/ovip0.png' was not found or does not implement IController.
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 21:43:45 --Error Start----------------
+Title : system error
+The controller for path '/favicon.ico' was not found or does not implement IController.
+Exception : 
+
+Error-----------------Error   End-----------------
+
+2016/12/26 22:00:58 --Error Start----------------
+Title : system error
+尝试除以零。
+Exception : 
+
+Error-----------------Error   End-----------------
+

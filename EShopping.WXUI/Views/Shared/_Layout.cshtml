@@ -1,0 +1,68 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>卡乐哲</title>
+    <link rel="stylesheet" href="/css/base.css" />
+    <link rel="stylesheet" href="/css/media.css" />
+    <link rel="stylesheet" href="/css/master.css?rand=@(new Random().Next())" />
+    <link rel="stylesheet" href="/css/swiper.min.css" />
+    <link rel="stylesheet" href="/css/esshopping.css" />
+    <link rel="stylesheet" href="/css/me.css" />
+    <link rel="stylesheet" href="/css/btn.css" />
+
+    <script src="@Url.Content("~/js/libs/jquery-1.11.1.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/libs/swiper.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/libs/html5shiv.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/page.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/BussinesJs/jquery.fly.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/BussinesJs/jquery.lazyload.js")"></script>
+  <script type="text/javascript">
+        $(function () {
+        //顶部我的和手机弹出层效果
+         
+            $('img.lazy').lazyload({threshold: 200});
+        });
+
+        </script>
+
+    
+    @{
+
+        int selectEnum = (int)ViewBag.SelectEnum;
+        int count = (int)ViewBag.ShoppingCarCount;
+    }
+
+</head>
+<body>
+    <div id="wrapper">
+        <div class="container">
+            @RenderBody()
+
+            <footer id="footer">
+                <ul>
+                    <li class="@(selectEnum == 1 ? "curr" : "")"><a href="@Url.Action("Index", "Home")" title="">Shopping</a></li>
+                    <li class="@(selectEnum == 2 ? "curr" : "")"><a href="@Url.Action("List", "Product")" title="">全部商品</a></li>
+                    <li class ="@(selectEnum == 3 ? "curr" : "")"><a href="@Url.Action("List", "NewPublic")" title=" ">最新揭晓</a></li>
+                        <li class ="@(selectEnum == 4 ? "curr" : "")"><a href="@Url.Action("ShoppingList", "ShoppingCar")" title="" id="end">购物车</a><i id="carCount">@count</i></li>
+                            <li class="@(selectEnum == 5 ? "curr" : "")"><a href="@Url.Action("Index", "MyEShopping")" title="">我的卡乐哲</a></li>
+                </ul>
+            </footer>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+        var addurl = "@Url.Action("AddProductItemToCar", "ShoppingCar")";
+        var shppoingUrl="@Url.Action("SetProuctItemNum", "ShoppingCar")";
+        var changeProductUrl = "@Url.Action("ChangeShoppingList", "ShoppingCar")";
+
+    $(function () {
+        $('img.lazy').lazyload();
+    });
+ 
+    </script>
+</body>
+</html>
