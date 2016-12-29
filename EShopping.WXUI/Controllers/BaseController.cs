@@ -26,7 +26,7 @@ namespace EShopping.WXUI.Controllers
     {
         private static string appId = WXPayConfig.APPID;
         private static string appSecret = WXPayConfig.APPSECRET;
-        //TEST
+        //TESTdddddd
         public int PageIndex { get; set; }
 
         public int PageSize { get; set; }
