@@ -59,17 +59,31 @@ namespace EShopping.WXUI.Controllers
         /// <param name="id"></param>
         /// <param name="spellBuyProductId"></param>
         /// <returns></returns>
-        public ActionResult Detail(int id, int spellBuyProductId)
+        public ActionResult Detail(int id, int spellBuyProductId, int type = 1)
         {
-            var response = ProductService.LoadProductDetail(id, spellBuyProductId);
+            ProductDTO response = null;
+            if (type != 1)
+            {
+                response = ProductService.LoadProductDetail(id, 0);
+                if (response == null)
+                {
+                    response = ProductService.LoadProductDetail(id, spellBuyProductId);
+                }
+            }
+            else
+            {
+                response = ProductService.LoadProductDetail(id, spellBuyProductId);
+            }
+
+            //response = ProductService.LoadProductDetail(id, spellBuyProductId);
             var list = LoadAttendUsers(spellBuyProductId, 1, 10);
             ViewBag.AttendUsers = list;
-            var winnerList=ProductService.QueryPublishingHistoryList(id,0);
+            var winnerList = ProductService.QueryPublishingHistoryList(id, 0);
             ViewBag.QueryPublishingHistoryList = winnerList;
 
 
             //查询商品晒单
-            var shareDto = ShareService.ShareList(1,1,0,1,true,id);
+            var shareDto = ShareService.ShareList(1, 1, 0, 1, true, id);
             ViewBag.ShareDTO = shareDto;
 
             return View(response);

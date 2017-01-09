@@ -16,9 +16,9 @@
             <div class="share_list">
                 <div class="share_title">
                     <div class="share_padd">
-                        <a class="sh_photo" href="@Url.Action(" index", "UserCenter", new { id = @item.winnerUserId })" title=""><img class="lazy" src="/images/defaultloading.gif" data-original="@(item.userInfoVO.faceImg)" /></a>
+                        <a class="sh_photo" href="@Url.Action("index", "UserCenter", new { id = @item.winnerUserId })" title=""><img class="lazy" src="/images/defaultloading.gif" data-original="@(item.userInfoVO.faceImg)" /></a>
                         <ul class="sh_tit_inner">
-                            <li class="namecol"><a href="@Url.Action(" index", "UserCenter", new { id = @item.winnerUserId })">@item.userInfoVO.nickName</a></li>
+                            <li class="namecol"><a href="@Url.Action("index", "UserCenter", new { id = @item.winnerUserId })">@item.userInfoVO.nickName</a></li>
                             <li class="times">@item.shareDate.ConvertToPublicDate()</li>
                         </ul>
                         <p class="info">@item.productVO.productName</p>
@@ -40,7 +40,7 @@
                 </div>
                 <ul class="share_sub">
                     <li><a href="@Url.Action("SendUpCount", "ShareOrder", new { shareId = @item.Id, pageIndex = ViewBag.PageIndex, pageSize = ViewBag.PageSize })" title=""><em class="zhan">@item.upCount</em></a></li>
-                    <li class="col"><a href="@Url.Action("Detail", "Product", new { id = @item.Id, spellBuyProductId = 0})" title="">我也想要</a></li>
+                    <li class="col"><a href="@Url.Action("Detail", "Product", new { id = @item.productVO.Id, spellBuyProductId = item.spellbuyproductId, type =2})" title="">我也想要</a></li>
                 </ul>
             </div>
 
